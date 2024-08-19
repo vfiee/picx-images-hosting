@@ -4,15 +4,18 @@
         "list": [
             {
                 "title": "叶子端",
-                "url": "https://www.shzion.org/h5/login2.html"
+                "url": "https://www.shzion.org/h5/login2.html",
+                "shortLink": "https://sourl.cn/GKufdn"
             },
             {
                 "title": "赞美网",
-                "url": "https://www.shzion.org/music"
+                "url": "https://www.shzion.org/music",
+                "shortLink": "https://sourl.cn/LVL4QE"
             },
             {
                 "title": "恩典甘露",
-                "url": "https://www.shzion.org/v2"
+                "url": "https://www.shzion.org/v2",
+                "shortLink": "https://sourl.cn/Kgm2iV"
             }
         ]
     }

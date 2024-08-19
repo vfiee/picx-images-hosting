@@ -4,7 +4,8 @@
         "list": [
             {
                 "title": "🍇系统",
-                "url": "https://grape.brightuprise.com"
+                "url": "https://grape.brightuprise.com",
+                "shortLink": "https://sourl.cn/zLQyJX"
             },
             {
                 "title": "BK2.0",
@@ -41,16 +42,16 @@
                 "url": "https://xiaoxiongmao0314-my.sharepoint.com/:x:/g/personal/xiaoxiongmao0314_xiaoxiongmao0314_onmicrosoft_com/EYWSoAtKGghBs6fBwBGrBQgB3nHL41RFa0xQMSdxbMNSgQ"
             },
             {
-                "title": "部署",
+                "title": "小队部署",
                 "url": "https://maildhueducn-my.sharepoint.com/:x:/g/personal/2211959_mail_dhu_edu_cn/ER4xTAnN6-5Dl5Ao9ZLfxsAB5KDGlbcA3bUq1y-4BxNILg"
-            },
-            {
-                "title": "日签",
-                "url": ""
             },
             {
                 "title": "周TK",
                 "url": "https://cut-part-70c.notion.site/TK-e0af14d08f7e4dd0a02ff158b27b904a"
+            },
+            {
+                "title": "日签",
+                "url": "https://plum-beast-229.notion.site/6b2475bc910c411bbaa6b1b78063bbfe"
             }
         ]
     }
