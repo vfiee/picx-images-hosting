@@ -5,11 +5,12 @@
             {
                 "title": "🍇系统",
                 "url": "https://grape.brightuprise.com",
-                "shortLink": "https://sourl.cn/zLQyJX"
+                "shortLink": "https://sink.vyron.me/ukyfc6"
             },
             {
                 "title": "BK2.0",
-                "url": "https://gem.brightuprise.com"
+                "url": "https://gem.brightuprise.com",
+                "shortLink": "https://sink.vyron.me/4q79bd"
             }
         ]
     },
@@ -18,15 +19,18 @@
         "list": [
             {
                 "title": "叶子端",
-                "url": "https://www.shzion.org/h5/login2.html"
+                "url": "https://www.shzion.org/h5/login2.html",
+                "shortLink": "https://sink.vyron.me/8cwmh2"
             },
             {
                 "title": "赞美网",
-                "url": "https://www.shzion.org/music"
+                "url": "https://www.shzion.org/music/#/home?sd=103485&sn=shjOYHVqDSsMezsRq221ug&contextType=MUSIC",
+                "shortLink": "https://sink.vyron.me/tmcchk"
             },
             {
                 "title": "恩典甘露",
-                "url": "https://www.shzion.org/v2"
+                "url": "https://www.shzion.org/v2/#home?sd=103485&sn=shjOYHVqDSsMezsRq221ug",
+                "shortLink": "https://sink.vyron.me/jnuxb3"
             }
         ]
     },
@@ -35,23 +39,33 @@
         "list": [
             {
                 "title": "一片区",
-                "url": "https://xiaoxiongmao0314-my.sharepoint.com/:x:/g/personal/xiaoxiongmao0314_xiaoxiongmao0314_onmicrosoft_com/EbkdtkyrG-FEtT7uMlJlkK4BbjfgKm8SjzVR99SS54Xskg"
+                "url": "https://xiaoxiongmao0314-my.sharepoint.com/:x:/g/personal/xiaoxiongmao0314_xiaoxiongmao0314_onmicrosoft_com/EbkdtkyrG-FEtT7uMlJlkK4BbjfgKm8SjzVR99SS54Xskg",
+                "shortLink": "https://sink.vyron.me/adrt3m"
             },
             {
                 "title": "小当家专属",
-                "url": "https://xiaoxiongmao0314-my.sharepoint.com/:x:/g/personal/xiaoxiongmao0314_xiaoxiongmao0314_onmicrosoft_com/EYWSoAtKGghBs6fBwBGrBQgB3nHL41RFa0xQMSdxbMNSgQ"
+                "url": "https://xiaoxiongmao0314-my.sharepoint.com/:x:/g/personal/xiaoxiongmao0314_xiaoxiongmao0314_onmicrosoft_com/EYWSoAtKGghBs6fBwBGrBQgB3nHL41RFa0xQMSdxbMNSgQ",
+                "shortLink": "https://sink.vyron.me/rcxss7"
             },
             {
                 "title": "小队部署",
-                "url": "https://maildhueducn-my.sharepoint.com/:x:/g/personal/2211959_mail_dhu_edu_cn/ER4xTAnN6-5Dl5Ao9ZLfxsAB5KDGlbcA3bUq1y-4BxNILg"
+                "url": "https://maildhueducn-my.sharepoint.com/:x:/g/personal/2211959_mail_dhu_edu_cn/ER4xTAnN6-5Dl5Ao9ZLfxsAB5KDGlbcA3bUq1y-4BxNILg",
+                "shortLink": "https://sink.vyron.me/tkvwcp"
             },
             {
                 "title": "周TK",
-                "url": "https://cut-part-70c.notion.site/TK-e0af14d08f7e4dd0a02ff158b27b904a"
+                "url": "https://cut-part-70c.notion.site/TK-e0af14d08f7e4dd0a02ff158b27b904a",
+                "shortLink": "https://sink.vyron.me/xq5p3z"
             },
             {
                 "title": "日签",
-                "url": "https://plum-beast-229.notion.site/6b2475bc910c411bbaa6b1b78063bbfe"
+                "url": "https://plum-beast-229.notion.site/6b2475bc910c411bbaa6b1b78063bbfe",
+                "shortLink": "https://sink.vyron.me/6mgjwm"
+            },
+            {
+                "title": "向阳系统",
+                "url": "https://sun.qingxin.lol",
+                "shortLink": "https://sink.vyron.me/2v7xc5"
             }
         ]
     }
