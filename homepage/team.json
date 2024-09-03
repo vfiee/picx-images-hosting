@@ -18,18 +18,23 @@
         "title": "收割机",
         "list": [
             {
-                "title": "叶子端",
+                "title": "叶子端、赞美网后台",
                 "url": "https://www.shzion.org/h5/login2.html",
                 "shortLink": "https://sink.vyron.me/8cwmh2"
             },
             {
+                "title": "叶子端、恩典甘露后台",
+                "url": "https://www.shzion.org/h5/login_edgl.html",
+                "shortLink": "https://sink.vyron.me/hh7jhr"
+            },
+            {
                 "title": "赞美网",
-                "url": "https://www.shzion.org/music/#/home?sd=103485&sn=shjOYHVqDSsMezsRq221ug&contextType=MUSIC",
+                "url": "https://www.shzion.org/music/#/home",
                 "shortLink": "https://sink.vyron.me/tmcchk"
             },
             {
                 "title": "恩典甘露",
-                "url": "https://www.shzion.org/v2/#home?sd=103485&sn=shjOYHVqDSsMezsRq221ug",
+                "url": "https://www.shzion.org/v2/#home",
                 "shortLink": "https://sink.vyron.me/jnuxb3"
             }
         ]
